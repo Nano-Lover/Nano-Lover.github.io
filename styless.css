@@ -1,0 +1,10 @@
+body{
+    background: linear-gradient(to right, rgb(60, 0, 128), purple)  ;
+    background-repeat: no-repeat; /*so that the background does not repeat over and over again*/
+    background-attachment: fixed;
+}
+.label{
+    font-family:anta;
+    font-size:24px;
+    color:white
+}       
