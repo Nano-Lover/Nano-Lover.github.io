@@ -8,3 +8,23 @@ body{
     font-size:2.5vw;
     color:white
 }       
+#header{
+    height:50px;
+    width:auto;
+    background-color:rgb(78, 22, 124);
+}
+#title{
+    color:white;
+    font-family:"Press Start 2P";
+    font-size:2.5vw;
+    position:absolute;
+    top:10px;
+    left:5px;
+}
+#name{
+    color: white;
+    font-family:"anta";
+    position: absolute;
+    left: 70vw;
+    top:2vw;
+}
