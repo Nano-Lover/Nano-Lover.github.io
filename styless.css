@@ -23,8 +23,8 @@ body{
     top:0px;
 }
 #title{
-    color:#aaaa91;
-    /*color:white;*/
+    /*color:#aaaa91;*/
+    color:white;
     font-family:"Press Start 2P";
     font-size:2.5vw;
     position:absolute;
