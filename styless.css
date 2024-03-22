@@ -1,5 +1,6 @@
 body{
-    background: linear-gradient(to right, rgb(60, 0, 128), purple)  ;
+    background: linear-gradient(to left, #07f9a2, #0a8967)  ;
+    /*background: #383845;*/
     background-repeat: no-repeat; /*so that the background does not repeat over and over again*/
     background-attachment: fixed;
     margin:0;
@@ -8,25 +9,33 @@ body{
 .label{
     font-family:anta;
     font-size:2.5vw;
-    color:white
+    /*color:#c7c7b5;*/
+    color:#0d192b;
+    margin:5px;
 }       
 #header{
-    height:70px;
+    height:5vw;
     width:auto;
-    background-color:rgb(78, 22, 124);
+    /*background-color:#12122b;*/
+    background-color:#0c5149;
+    border-radius: 20px;
+    position:sticky;
+    top:0px;
 }
 #title{
-    color:white;
+    color:#aaaa91;
+    /*color:white;*/
     font-family:"Press Start 2P";
     font-size:2.5vw;
     position:absolute;
-    top:5px;
-    left:5px;
+    top:1.5vw;
+    left:1vw;
 }
 #name{
     color: white;
     font-family:"anta";
+    font-size:1vw;
     position: absolute;
-    left: 70vw;
-    top:1.5vw;
+    right: 5vw;
+    top: 3vw;
 }
